@@ -9,6 +9,7 @@ $git clone https://github.com/dark-hacker-bd/darkboy
 
 $run this tool 
 
+cd darkboy
 
 $python2 dark.py
 
