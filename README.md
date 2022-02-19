@@ -9,7 +9,7 @@ git clone https://github.com/dark-hacker-bd/dark--target
 
 (((((((run this tool )))))))))
 
-cd darkboy
+cd dark-target
 
 python2 dark.py
 
