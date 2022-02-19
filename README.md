@@ -11,7 +11,7 @@ git clone https://github.com/dark-hacker-bd/dark--target
 
 cd dark-target
 
-python2 dark.py
+python2 dark-target.py
 
 example》》  python dark-target.py -t 100001013078780 -w wordlist.txt
 
