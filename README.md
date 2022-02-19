@@ -1,20 +1,24 @@
 # darkboy
 
-$pkg install git 
+pkg install git 
 
 
-$pkg install python2 
+pkg install python2 
 
-$git clone https://github.com/dark-hacker-bd/darkboy 
+git clone https://github.com/dark-hacker-bd/dark--target
 
-$run this tool 
+(((((((run this tool )))))))))
 
 cd darkboy
 
-$python2 dark.py
+python2 dark.py
+
+example》》  python dark-target.py -t 100001013078780 -w wordlist.txt
+
+We are not responsible if someone uses the tool in a bad awye
 
 
-We are not responsible if someone uses the tool in a bad way
- 
-
-my facebook grupe link=https://facebook.com/groups/426240602403850/
+my facebook::dark boy
+my facebook::grupe dark hacker bd
+my github::dark-hacker-bd
+my youtube::dark hacker bd
