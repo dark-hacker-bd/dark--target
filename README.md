@@ -26,7 +26,7 @@
 * `apt-get upgrade -y`
 * `pkg install git -y`
 * `pkg insall python -y`
-* `pip install tqdm`
+* `pip install mechanize`
 * `pip install requests`
 * `git clone https://github.com/dark-hacker-bd/dark--target`
 * `cd dark--target`
@@ -36,13 +36,13 @@
 * `apt-get upgrade -y`
 * `sudo apt install git -y`
 * `sudo apt insall python -y`
-* `pip install tqdm`
+* `pip install mechanize`
 * `pip install requests`
 * `git clone https://github.com/dark-hacker-bd/dark--target`
 * `cd dark--target`
 * `ls`
 ## ONE CLICK INSTALLATION TERMUX :
-* `apt-get update -y && apt-get upgrade -y &&  pkg install git -y && git clone https://github.com/dark-hacker-bd/dark--target && pip install requests && pip install tqdm && cd dark--target `
+* `apt-get update -y && apt-get upgrade -y &&  pkg install git -y && git clone https://github.com/dark-hacker-bd/dark--target && pip install requests && pip install mechanize && cd dark--target `
 
 
 ## FOR RUN TOOL :
