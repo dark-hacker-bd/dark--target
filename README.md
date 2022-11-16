@@ -13,7 +13,7 @@
 
 ### FACEBOOK :
 <p align="center"> 
-<a href="https://www.facebook.com/mAoVirUs2116/"><img title="FaceBook" src="https://img.shields.io/badge/FB-MAO VIRUS-lightgrey?style=for-the-badge&logo=facebook"></a>
+<a href="https://www.facebook.com/dark.hacker.bd.dark.boy"><img title="FaceBook" src="https://img.shields.io/badge/FB-MAO VIRUS-lightgrey?style=for-the-badge&logo=facebook"></a>
 </p>
 
 
@@ -28,8 +28,8 @@
 * `pkg insall python -y`
 * `pip install tqdm`
 * `pip install requests`
-* `git clone https://github.com/mao2116/MFB`
-* `cd MFB`
+* `git clone https://github.com/dark-hacker-bd/dark--target`
+* `cd dark--target`
 * `ls`
 ## INSTALLATION ON KALI :
 * `apt-get update -y`
@@ -38,20 +38,26 @@
 * `sudo apt insall python -y`
 * `pip install tqdm`
 * `pip install requests`
-* `git clone https://github.com/mao2116/MFB`
-* `cd MFB`
+* `git clone https://github.com/dark-hacker-bd/dark--target`
+* `cd dark--target`
 * `ls`
 ## ONE CLICK INSTALLATION TERMUX :
 * `apt-get update -y && apt-get upgrade -y &&  pkg install git -y && git clone https://github.com/mao2116/MFB && pip install requests && pip install tqdm && cd MFB `
 
 
 ## FOR RUN TOOL :
-* `cd MFB`
-* `python MFB.MAO`
+* `cd dark--target`
+* `unzip dark-target.zip`
+* `need password for unzip`
+* `python dark-target.py -t (target id) -w (password list)`
+* ` python dark-target.py -t 100001013078780 -w wordlist.txt `
+* `press enter`
+
+* `python dark-target.py`
 
 
 
-##### MAO2116
+##### DARK HACKER BD
 
 ## WARNING : 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
