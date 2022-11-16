@@ -42,7 +42,7 @@
 * `cd dark--target`
 * `ls`
 ## ONE CLICK INSTALLATION TERMUX :
-* `apt-get update -y && apt-get upgrade -y &&  pkg install git -y && git clone https://github.com/mao2116/MFB && pip install requests && pip install tqdm && cd MFB `
+* `apt-get update -y && apt-get upgrade -y &&  pkg install git -y && git clone https://github.com/dark-hacker-bd/dark--target && pip install requests && pip install tqdm && cd dark--target `
 
 
 ## FOR RUN TOOL :
